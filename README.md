@@ -3,7 +3,7 @@ Hola
 En el script login agregue operadores avanzados.
 
 En la página productos agregue la libreria SweetAlert2.
-Al precionar el boton agregar al carrito y al precionar el boton eliminar producto del carrito
+Al presionar el boton agregar al carrito y al presionar el boton eliminar producto del carrito
 
 Todavia no soluciono lo de agregar el mismo producto al carrito y que no se duplique
 
